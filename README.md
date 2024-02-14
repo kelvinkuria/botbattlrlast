@@ -1235,9 +1235,9 @@ The following have been used on this project:
   `http://localhost:8001/bots`
 
 ## Authors
-
-- [John Maluki](https://github.com/john-maluki)
+GOD
+KELVINKURIA
 
 ## Copyright
 
-Released under the MIT License. See the [LICENSE](https://github.com/john-maluki/bot-battlr/blob/main/LICENSE) file.
+Released under the MIT License. See the [LICENSE](https://github.com/kelvinkuria/botbattlrlast/blob/main/LICENSE) file.
